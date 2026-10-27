@@ -6,7 +6,7 @@
 **Status**: R0 scaffold (2026-05-26) — 8 cells path-reserved + 9 Lexicon skeletons
 **First-touch channel**: AT Protocol — `app.bsky.feed.post` (existing membrane per ADR-2605231902) + custom feed generator `feed.ossekai.wellbecoming` + `@mention` (NO email / SMTP at R0-R2)
 **Cross-actor**: e7m-dataset + legal corpus + toritate (sources) / chigiri + iyashi + mitate + yakushi (boundaries) / kazaori (emergency advisory) / baien-moemoekyun + kotoba + feed-discover (substrate)
-**Canonical repository**: `etzhayyim/actor-ossekai`
+**Canonical repository**: `cloud-itonami/actor-ossekai`
 
 ## Overview
 
